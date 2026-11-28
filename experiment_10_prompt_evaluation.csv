@@ -1,0 +1,5 @@
+Prompt_ID,Task,Weak_Prompt,Improved_Prompt
+P01,Concept Explanation,Explain machine learning,Act as a computer science professor and explain machine learning to a college student in under 100 words using three bullet points and an example.
+P02,Email Drafting,Write an email for leave,You are a college student writing to a project manager. Draft a formal leave email with a clear subject line in under 80 words.
+P03,Report Summary,Summarize this report,Act as a project manager and summarize the report for a college team in five bullet points using a table format.
+P04,Comparison,Compare AI and ML,You are a technical writer. Compare AI and ML for a student project in under 150 words using a comparison table and one example.

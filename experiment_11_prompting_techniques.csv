@@ -1,0 +1,5 @@
+Example_ID,Technique,Role,Task,Input_Text,Example_Input,Example_Output
+E01,Zero-Shot,customer support analyst,Classify sentiment,The delivery was quick and the product works perfectly.,,
+E02,One-Shot,IT helpdesk engineer,Classify ticket priority,The main server is unavailable right now.,Printer is slow,Low
+E03,Few-Shot,product reviewer,Classify sentiment,The screen is dull and the battery stopped charging.,Great camera,Positive
+E04,Role-Based,professional communication coach,Rewrite email politely,Send me the project file fast.,,
